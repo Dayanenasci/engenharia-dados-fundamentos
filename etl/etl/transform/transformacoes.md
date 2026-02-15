@@ -12,4 +12,4 @@
 
 ## Resultado Esperado
 
-Dados prontos para análise e consumo.
+Dados prontos para análise e consumo
