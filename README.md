@@ -1,19 +1,31 @@
 # Engenharia de Dados — Fundamentos
 
-Repositório com meus estudos iniciais em Engenharia de Dados, com foco em organização e rastreabilidade.
+Repositório dedicado aos meus estudos em Engenharia de Dados com foco em organização, rastreabilidade e boas práticas.
 
-## Objetivo
+---
 
-- Entender o ciclo de vida dos dados
-- Aplicar organização por camadas
-- Documentar processos
+## 📌 Objetivo
 
-## Fluxo de Dados
+Consolidar conhecimentos fundamentais da área e aplicar estruturação adequada desde o início da jornada como Engenheira de Dados.
 
-Fonte → Tratamento → Armazenamento → Consumo
+---
 
-## Conceitos
+## 🗺️ Estrutura do Projeto
+---
 
+## 🔎 Conceitos Aplicados
+
+- Organização por camadas
+- Documentação técnica
+- Rastreabilidade de dados
 - SQL básico
-- ETL (nível introdutório)
-- Governança de dados
+- Governança (nível introdutório)
+
+---
+
+## 🚀 Próximos Passos
+
+- Evoluir consultas SQL
+- Simular ingestão de dados
+- Criar modelo dimensional simples
+- Implementar indicadores
