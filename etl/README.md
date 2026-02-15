@@ -22,3 +22,9 @@ Extração
 ---
 
 ## 📂 Estrutura
+
+---
+
+## 🔎 Observação
+
+Os dados utilizados são fictícios e utilizados apenas para fins de estudo.
