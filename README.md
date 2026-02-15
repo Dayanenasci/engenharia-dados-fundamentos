@@ -1,31 +1,60 @@
 # Engenharia de Dados — Fundamentos
 
-Repositório dedicado aos meus estudos em Engenharia de Dados com foco em organização, rastreabilidade e boas práticas.
+Repositório dedicado aos meus estudos práticos em Engenharia de Dados, com foco em organização, rastreabilidade e construção de pipeline analítico ponta a ponta.
+
+Este projeto simula um fluxo completo de dados, desde a ingestão até a análise.
 
 ---
 
-## 📌 Objetivo
+## 🎯 Objetivo
 
-Consolidar conhecimentos fundamentais da área e aplicar estruturação adequada desde o início da jornada como Engenheira de Dados.
+Consolidar fundamentos essenciais da Engenharia de Dados aplicando:
+
+- Estruturação de pipeline
+- Processo ETL
+- Modelagem dimensional
+- Consultas analíticas
+- Documentação técnica
+- Boas práticas de versionamento
 
 ---
 
-## 🗺️ Estrutura do Projeto
+## 🗺️ Pipeline do Projeto
+
+Extração (CSV fictício)  
+→ Transformação (padronização e validações)  
+→ Carga (camada confiável)  
+→ Modelagem Dimensional  
+→ Consultas Analíticas
+
+---
+
+## 📂 Estrutura do Repositório
+
 ---
 
 ## 🔎 Conceitos Aplicados
 
+- ETL (Extract, Transform, Load)
 - Organização por camadas
-- Documentação técnica
 - Rastreabilidade de dados
-- SQL básico
-- Governança (nível introdutório)
+- Modelagem dimensional (Modelo Estrela)
+- SQL básico e analítico
+- Governança de dados (nível introdutório)
+
+---
+
+## 📈 Indicadores Simulados
+
+- Total de clientes cadastrados
+- Clientes ativos
+- Crescimento mensal de cadastros
 
 ---
 
 ## 🚀 Próximos Passos
 
-- Evoluir consultas SQL
-- Simular ingestão de dados
-- Criar modelo dimensional simples
-- Implementar indicadores
+- Simular automação do ETL
+- Evoluir consultas analíticas
+- Implementar controle de qualidade de dados
+- Aplicar versionamento de schema
